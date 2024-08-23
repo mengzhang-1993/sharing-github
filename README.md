@@ -1,1 +1,1 @@
-# Notebook sharing by Meng Zhang
+# Project notebooks sharing
